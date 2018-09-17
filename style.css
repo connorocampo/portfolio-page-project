@@ -371,18 +371,13 @@ footer a:hover{
   h2{
     width: 100%;
   }
-  
 
   #about .aboutContent img{
    width: 80%;
    height: 80%; 
    border-radius: 50%;
    padding-top: 12px; 
-}
-  
-#aboutPadding{
-  padding: px;
-}
+  }
 
 #contact .contactContent img{
   width: 100%;
