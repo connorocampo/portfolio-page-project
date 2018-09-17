@@ -59,6 +59,8 @@ h2{
   text-transform: uppercase;
   letter-spacing: 8px;
   margin: 0 auto;
+  color: #FFF;
+  text-shadow: 3px 3px 10px #000;
 }
 
 
@@ -150,7 +152,6 @@ header a:hover{
 #about{
   padding-top: 40px;
   padding-bottom: 30px;
-  margin-top: 20px;
   background-color: #f4f4f4;
   color: #666;
 }
@@ -245,7 +246,6 @@ header a:hover{
 #contact{
   padding-top: 30px;
   padding-bottom: 30px;
-  margin-top: 20px;
   background-color: #f4f4f4;
   color: #666;
 }
