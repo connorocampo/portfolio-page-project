@@ -402,9 +402,3 @@ footer a:hover{
   margin: 0 auto;
  }
 }
-
-@media screen and (max-width: 305px){
-  #connor1, #connor2{
-    width:100%;
-  }
-}
