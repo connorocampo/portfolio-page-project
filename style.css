@@ -323,7 +323,7 @@ footer a:hover{
 }
 
 /* Media Queries */
-@media screen and (max-width: 569px) {
+@media screen and (max-width: 305px) {
 
   header #branding,
   header nav,
@@ -388,7 +388,7 @@ footer a:hover{
 }  
   
  #gary{
-    width: 100% !important;
+    width: 100%;
   }
   
    #banyan{
@@ -401,4 +401,10 @@ footer a:hover{
   letter-spacing: 8px;
   margin: 0 auto;
  }
+}
+
+@media screen and (max-width: 305px){
+  #connor1, #connor2{
+    width:100%;
+  }
 }
