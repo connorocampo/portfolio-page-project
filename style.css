@@ -162,11 +162,10 @@ header a:hover{
   width: 100%;
 }
 
-#about .aboutContent img{
+#connor1{
  height: 325px;
  width: 325px;
  border-radius: 50%;
- box-shadow: 5px 5px 15px #888888;
 }
 
 #aboutPadding{
@@ -257,11 +256,10 @@ header a:hover{
   padding: 10px;
 }
 
-#contact .contactContent img{
+#connor2{
   width: 350px;
   height: 350px;
   border-radius: 50%;
-  box-shadow: 5px 5px 15px #888888;
 }
 
 .padding{
