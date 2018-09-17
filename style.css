@@ -323,7 +323,7 @@ footer a:hover{
 }
 
 /* Media Queries */
-@media screen and (max-width: 305px) {
+@media screen and (max-width: 568px) {
 
   header #branding,
   header nav,
@@ -369,7 +369,6 @@ footer a:hover{
   h2{
     width: 100%;
   }
-  
 
 #connor1{
    width: 100% !important;
