@@ -1,6 +1,6 @@
 # Build a Portfolio Page, a freeCodeCamp Project
 
-This project was to be completed using HTML, JavaScript, and CSS (Plain CSS was recommended). Bootstrap or SASS were acceptable to use as well. It was also encouraged for coders to use their own personal style. *No JavaScript was used in this project.
+This project was to be completed using HTML, JavaScript, and CSS (Plain CSS was recommended). Bootstrap or SASS were acceptable to use as well. It was also encouraged for coders to use their own personal style.
 
 Tools used: CodePen, HTML, CSS (including CSS Grid), Bootstrap and Font Awesome.
 
