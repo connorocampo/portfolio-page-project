@@ -1,0 +1,412 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+@import 'https://fonts.googleapis.com/css?family=Lato';
+@import 'https://fonts.googleapis.com/css?family=Permanent+Marker';
+
+body{
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  line-height: 1.8em;
+  padding: 0;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+/* NAVBAR */
+#brand{
+  font-size: 35px;
+    font-family: permanent marker !important;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+    max-width: 100%;
+}
+
+/* Global */
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+.button_1{
+  height: 38px;
+  background: #e8491d; /* Button Color */
+  border: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  border-radius: 3px;
+}
+
+h2{
+  font-family: permanent marker;
+  font-size: 42px;
+}
+
+.ptext{
+  font-family: lato;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  margin: 0 auto;
+}
+
+
+/* Header */
+header{
+  background: white;
+  color: #282e34;
+  padding-top: 0px;
+  height: 50px;
+  border-bottom: black px solid;
+  box-shadow: 0 1px 3px 1px #666;
+  position: fixed; 
+  width: 100%;
+}
+
+header #brand{
+  text-decoration: none;
+  font-size: 34px;
+  color: #666;
+  margin-top: px;
+  font-family: permanent marker;
+}
+
+header #brand:hover{
+  color: black;
+}
+
+header a{
+  color: #282e34;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+header li{
+  float: left;
+  display: inline;
+  padding: 0 20px 0px;
+}
+
+header #branding{
+  float: left;
+}
+
+header #branding h1{
+  margin-top: 17px;
+}
+
+header nav{
+  float: right;
+  margin-top: 20px;
+  background: none;
+}
+
+header a:hover{
+  color: black;
+  font-weight: bold;
+}
+
+
+/* Showcase */
+#showcase{
+  min-height: 100vh;
+  background:url("http://i.imgur.com/Q8XxfUT.jpg") no-repeat 0;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  opacity: 1;
+}
+
+#showcase h1{
+  font-size: 55px;
+  margin-top: 40vh;
+  font-family: lato;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  text-shadow: 3px 3px 9px black;
+  
+}
+
+#showcase p{
+  font-size: 20px;
+  font-weight: 400;
+  text-shadow: 3px 3px 9px black;
+}
+
+
+/* About */
+#about{
+  padding-top: 40px;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  background-color: #f4f4f4;
+  color: #666;
+}
+
+#about .aboutContent{
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+
+#about .aboutContent img{
+ height: 325px;
+ width: 325px;
+ border-radius: 50%;
+ box-shadow: 5px 5px 15px #888888;
+}
+
+#aboutPadding{
+  padding: 10px;
+}
+
+.certs a{
+  text-decoration: none;
+}
+
+/* img2 */
+#img2{
+  min-height: 500px;
+  background:url("http://i.imgur.com/c1pV1Vy.jpg") no-repeat 0;
+  background-size: cover;
+  text-align: center;
+  color: black;
+  opacity: 1;
+}
+
+#img2 h1{
+  margin-top: 200px;
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+#img2 p{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Portfolio */
+#portfolio{
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background-color: #282e34;
+  color: white;
+}
+
+#portfolio .projects{
+  float: none;
+  text-align: center;
+  width: 100%;
+}
+
+#gary{
+  border-radius: 5px;
+}
+
+#banyan{
+  width: 450px;
+  border-radius: 5px;
+}
+
+/* img3 */
+#img3{
+  min-height: 500px;
+  background:url("http://i.imgur.com/FAFqXUe.jpg") no-repeat 0;
+  background-size: cover;
+  text-align: center;
+  color: black;
+  opacity: 1;
+}
+
+#img3 h1{
+  margin-top: 200px;
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+#img3 p{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Contact */
+#contact{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  background-color: #f4f4f4;
+  color: #666;
+}
+
+#contact .contactContent{
+  float: left;
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+}
+
+#contact .contactContent img{
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 15px #888888;
+}
+
+.padding{
+  padding-top: 20px;
+}
+
+#contact a{
+  text-decoration: none;
+  color: #282e34;
+  margin: 10px;
+  font-size: 20px;
+  display: inline-block;
+}
+
+#contact a:hover{
+  text-shadow: 1px 1px 15px #55ffff;
+}
+
+/* img1 */
+#img1{
+  min-height: 500px;
+  background:url("http://i.imgur.com/Q8XxfUT.jpg") no-repeat 0; 
+  background-size: cover;
+  text-align: center;
+  color: white;
+  opacity: 1;
+}
+
+#img1 h1{
+  margin-top: 200px;
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+#img1 p{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Footer */
+footer{
+  padding-top: 5px;
+  margin-bottom: 0px;
+  color: white;
+  background-color: #282e34;
+  text-align: center;
+}
+
+footer a{
+  text-decoration: none;
+  color: lightgrey;
+}
+
+footer a:link{
+  text-decoration: none;
+  color: lightgrey;
+}
+
+footer a:hover{
+  color: white;
+}
+
+/* Media Queries */
+@media screen and (max-width: 569px) {
+  
+  header #branding,
+  header nav,
+  header nav li,
+  #about .aboutContent,
+  #portfolio .project{
+    float: none;
+    text-align: center;
+    width: 100%;
+  }
+  
+ header{
+    margin-top: -10px;
+    padding-bottom: 5px;
+  }
+
+  header #brand{
+    font-size: 19px;
+  }
+  
+  #brand{
+    font-size: 28px;
+  }
+  
+  #showcase h1,
+  #img1 h1,
+  #img2 h1,
+  #img3 h1{
+    margin-top: 70%;
+    line-height: 1.3em;
+    width: 100% !important;
+    font-size: 26px;
+    text-align: center;
+  }
+  
+  #showcase h1{
+    line-height: 55px;
+    width: 100% !important;
+    font-size: 46px;
+    text-align: center;
+  }
+
+  h2{
+    width: 100%;
+  }
+
+  #connor1{
+    height: 90% !important;
+    width: 90% !important;
+  }
+
+  #about .aboutContent img{
+   width: 80%;
+   height: 80%;
+   border-radius: 50%;
+   box-shadow: 5px 5px 15px #888888;
+}
+  
+#aboutPadding{
+  padding: 10px;
+}
+
+#contact .contactContent img{
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+  box-shadow: 5px 5px 15px #888888;
+}  
+  
+ #gary{
+    width: 100% !important;
+  }
+  
+   #banyan{
+    width: 100% !important;
+  }
+
+.showcase-h1{
+  font-family: lato;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  margin: 0 auto;
+ }
+}
