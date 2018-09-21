@@ -281,6 +281,11 @@ div p {
   padding-top: 20px;
 }
 
+#email {
+  font-size: 22px;
+  font-weight: bold;
+}
+
 #contact a {
   text-decoration: none;
   color: #282e34;
@@ -408,4 +413,9 @@ footer a:hover {
   letter-spacing: 8px;
   margin: 0 auto;
  }
+  
+  #email {
+  font-size: 20px;
+  font-weight: bold;
+}
 }
