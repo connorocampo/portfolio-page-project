@@ -185,8 +185,9 @@ header a:hover {
 }
 
 div p {
-    margin: 25px;
-    line-height: 30px;
+    margin: 35px;
+    line-height: 40px;
+    font-size: 16px;
 }
 
 /* img2 */
