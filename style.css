@@ -306,8 +306,7 @@ div p {
 
 /* Footer */
 footer{
-  padding-top: 5px;
-  margin-bottom: 0px;
+  padding: 8px;
   color: white;
   background-color: #282e34;
   text-align: center;
