@@ -54,9 +54,10 @@ h2 {
   font-size: 42px;
 }
 
-h3 {
-margin-bottom: 60px;
+.portfolio-heading {
+   margin-bottom: 50px;
 }
+
 
 .ptext {
   font-family: lato;
