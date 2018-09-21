@@ -373,20 +373,19 @@ footer a:hover {
     font-size: 28px;
   }
 
-  #showcase h1,
   #img1 h1,
   #img2 h1,
   #img3 h1 {
-    margin-top: 70%;
+    margin-top: 50%;
     line-height: 1.3em;
-    width: 100% !important;
+    width: 100%;
     font-size: 26px;
     text-align: center;
   }
 
   #showcase h1 {
     line-height: 55px;
-    width: 100% !important;
+    width: 100%;
     font-size: 46px;
     text-align: center;
   }
@@ -410,7 +409,7 @@ footer a:hover {
   }
 
   #banyan {
-    width: 100% !important;
+    width: 100%;
   }
 
 .showcase-h1 {
