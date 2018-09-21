@@ -404,12 +404,8 @@ footer a:hover {
   padding: 10px;
 }
 
- #gary {
-    width: 100%;
-  }
-
-  #banyan {
-    width: 100%;
+ #gary, #banyan {
+    width: 80%;
   }
 
 .showcase-h1 {
