@@ -163,6 +163,7 @@ header a:hover {
 }
 
 #connor1 {
+ margin-top: 35px; 
  height: 325px;
  width: 325px;
  border-radius: 50%;
@@ -269,6 +270,7 @@ div p {
 }
 
 #connor2 {
+  margin-top: 35px; 
   width: 350px;
   height: 350px;
   border-radius: 50%;
