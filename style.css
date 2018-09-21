@@ -172,8 +172,15 @@ header a:hover {
   padding: 10px;
 }
 
-.certs a {
+.certs a{
   text-decoration: none;
+  font-weight: bold;
+  color: #404040;
+}
+
+.certs a:hover {
+  text-decoration: none;
+  color: #2f9595;
 }
 
 div p {
