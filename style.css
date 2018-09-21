@@ -176,6 +176,11 @@ header a:hover{
   text-decoration: none;
 }
 
+div p {
+    margin: 25px;
+    line-height: 30px;
+}
+
 /* img2 */
 #img2{
   min-height: 500px;
